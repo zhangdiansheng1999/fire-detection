@@ -1,0 +1,1 @@
+The deep learning model that has been trained for direct forest fire detection is located in "model_data/CBAM.pyh".
